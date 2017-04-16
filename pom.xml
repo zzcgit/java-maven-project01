@@ -42,7 +42,7 @@
 			 	<artifactId>tomcat7-maven-plugin</artifactId>
     				<version>2.1</version>
     				<configuration>
-				<url>http://192.168.29.133:8082</url>
+				<url>http://124.16.71.129:8082</url>
         				<update>true</update>
 					<server>deploytomcat</server>
         				<username>tomcat</username>
